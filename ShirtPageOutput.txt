@@ -1,0 +1,1534 @@
+<!DOCTYPE html>
+<!--[if lt IE 7 ]> <html lang="en" class="no-js ie6"> <![endif]--><!--[if IE 7 ]>    <html lang="en" class="no-js ie7"> <![endif]--><!--[if IE 8 ]>    <html lang="en" class="no-js ie8"> <![endif]--><!--[if IE 9 ]>    <html lang="en" class="no-js ie9"> <![endif]--><!--[if (gt IE 9)|!(IE)]><!--><html class="no-js" lang="en"> <!--<![endif]-->
+<!--[if IE 7]> <link href="//cdn.shopify.com/s/files/1/0109/6372/t/16/assets/ie7.css?6013872527061668110" rel="stylesheet" type="text/css"  media="all"  /> <![endif]-->
+<head>
+<!-- to redirect from home page to catalog page -->
+<link href="https://static.shopify.com/s/files/1/0109/6372/t/9/assets/Luxire_Favicon.jpg?9690" rel="icon" type="image/jpg"/>
+<meta charset="utf-8"/>
+<meta content="IE=edge,chrome=1" http-equiv="X-UA-Compatible"/>
+<title>Sky Blue Oxford -   Bespoke Shirts by Luxire. Custom made to Perfection</title>
+<link href="http://custom.luxire.com/products/sky-blue-oxford.oembed" rel="alternate" type="application/json+oembed"/>
+<script>
+//<![CDATA[
+      var Shopify = Shopify || {};
+      Shopify.shop = "luxire.myshopify.com";
+      Shopify.theme = {"name":"luxire-jan-2015","id":9761116,"theme_store_id":null,"role":"main"};
+
+//]]>
+</script>
+<script src="https://cdn.shopify.com/s/files/1/0109/6372/t/2/assets/olark.js?4938&amp;shop=luxire.myshopify.com" type="text/javascript"></script>
+<script>
+//<![CDATA[
+    (function() {
+      function asyncLoad() {
+        var urls = ["https:\/\/soundest.net\/inShop\/Embed\/shopify.js?shop=luxire.myshopify.com","https:\/\/d3itxuyrq7vzpz.cloudfront.net\/apps\/shopify\/reamazejs.js?widget=true\u0026shop=luxire.myshopify.com","https:\/\/swiftype.com\/shopify\/v2\/embed.js?shop=luxire.myshopify.com","http:\/\/54.186.120.221:8080\/MultiCurrency\/jquery.currencies.min.js?shop=luxire.myshopify.com"];
+        for (var i = 0; i < urls.length; i++) {
+          var s = document.createElement('script');
+          s.type = 'text/javascript';
+          s.async = true;
+          s.src = urls[i];
+          var x = document.getElementsByTagName('script')[0];
+          x.parentNode.insertBefore(s, x);
+        }
+      }
+      window.attachEvent ? window.attachEvent('onload', asyncLoad) : window.addEventListener('load', asyncLoad, false);
+    })();
+
+//]]>
+</script>
+<script id="__st">
+//<![CDATA[
+var __st={"a":1096372,"offset":-14400,"reqid":"78ca2808-66f9-44c5-ab9b-6f3e72b964ee","pageurl":"custom.luxire.com\/collections\/dress-shirts\/products\/sky-blue-oxford","s":"products-95745126","t":"lead","u":"0eea125c5b1a","p":"product","rtyp":"product","rid":95745126};
+//]]>
+</script>
+<script>
+//<![CDATA[
+      (function() {
+        var s = document.createElement('script'); s.type = 'text/javascript'; s.async = true;
+        s.src = '//cdn.shopify.com/s/javascripts/shopify_stats.js?v=6';
+        var x = document.getElementsByTagName('script')[0]; x.parentNode.insertBefore(s, x);
+      })();
+
+//]]>
+</script>
+<script type="text/javascript">var _gaq = _gaq || [];_gaq.push(["_setAccount","UA-32510202-1"]);_gaq.push(["_addDevId","o5cUG"]);_gaq.push(["_setAllowLinker",true]);_gaq.push(["_setDomainName","none"]);_gaq.push(["_setCustomVar"]);_gaq.push(["_trackPageview"]);
+      (function() {
+        var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+        ga.src = 'http://stats.g.doubleclick.net/dc.js';
+        var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+      })();
+    </script><script src="//cdn.shopify.com/s/assets/themes_support/ga_urchin_forms-a8409dbde5a520dea52e886010087eb3.js" type="text/javascript"></script>
+<meta content="Luxire Bespoke Shirts Pants/Trousers. Custom made-to-measure suits, jackets, jeans. Vintage Spearpoint Collars" name="description"/>
+<meta content="Luxire, Bespoke, Shirts, Trousers, polo, pants, slacks, boxer shorts, Custom, Made-to-measure, Custom shirts, Custom Pants, Spearpoint Collar, Jackets, Suits, Jeans, Polo" name="keywords"/>
+<meta content="Webmaster, admin AT oadie.com" name="author"/>
+<link href="//cdn.shopify.com/s/files/1/0109/6372/t/16/assets/tooltip.css?6013872527061668110" media="all" rel="stylesheet" type="text/css"/>
+<link href="//cdn.shopify.com/s/files/1/0109/6372/t/16/assets/pop_up.css?6013872527061668110" media="all" rel="stylesheet" type="text/css"/>
+<script src="//cdn.shopify.com/s/files/1/0109/6372/t/16/assets/tooltip.js?6013872527061668110" type="text/javascript"></script>
+<script src="//cdn.shopify.com/s/files/1/0109/6372/t/16/assets/tinybox.js?6013872527061668110" type="text/javascript"></script>
+<link href="//cdn.shopify.com/s/files/1/0109/6372/t/16/assets/reset.css?6013872527061668110" media="all" rel="stylesheet" type="text/css"/>
+<link href="//cdn.shopify.com/s/files/1/0109/6372/t/16/assets/shop.css?6013872527061668110" media="all" rel="stylesheet" type="text/css"/>
+<link href="//cdn.shopify.com/s/files/1/0109/6372/t/16/assets/iamdstyle.css?6013872527061668110" media="all" rel="stylesheet" type="text/css"/>
+<link href="//cdn.shopify.com/s/files/1/0109/6372/t/16/assets/ui.selectmenu.css?6013872527061668110" media="all" rel="stylesheet" type="text/css"/>
+<link href="//cdn.shopify.com/s/files/1/0109/6372/t/16/assets/jquery.fancybox.css?6013872527061668110" media="all" rel="stylesheet" type="text/css"/>
+<!--[if IE]>
+  <link href="//cdn.shopify.com/s/files/1/0109/6372/t/16/assets/ie.css?6013872527061668110" rel="stylesheet" type="text/css"  media="all"  />
+  <![endif]-->
+<!--[if lt IE 7 ]>
+  <link href="//cdn.shopify.com/s/files/1/0109/6372/t/16/assets/ie6.css?6013872527061668110" rel="stylesheet" type="text/css"  media="all"  />
+  <![endif]-->
+<script src="//cdn.shopify.com/s/files/1/0109/6372/t/16/assets/modernizr.js?6013872527061668110" type="text/javascript"></script>
+<script src="http://www.google.com/jsapi" type="text/javascript"></script>
+<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.4.4/jquery.min.js" type="text/javascript"></script>
+<script src="//cdn.shopify.com/s/files/1/0109/6372/t/16/assets/jquery.jqzoom-core.js?6013872527061668110" type="text/javascript"></script>
+<script src="//cdn.shopify.com/s/assets/themes_support/option_selection-159140355edfabb33723c6a6f1f19b85.js" type="text/javascript"></script>
+<script src="//cdn.shopify.com/s/assets/themes_support/api.jquery-0ef84eddc5d63cd687dbb43f0754ee9e.js" type="text/javascript"></script>
+<script src="//cdn.shopify.com/s/files/1/0109/6372/t/16/assets/ajaxify-shop.js?6013872527061668110" type="text/javascript"></script>
+<script src="//cdn.shopify.com/s/files/1/0109/6372/t/16/assets/jquery-ui-1.8.6.js?6013872527061668110" type="text/javascript"></script>
+<script src="//cdn.shopify.com/s/files/1/0109/6372/t/16/assets/jquery.cookie.js?6013872527061668110" type="text/javascript"></script>
+<script src="//cdn.shopify.com/s/files/1/0109/6372/t/16/assets/jquery.slider.js?6013872527061668110" type="text/javascript"></script>
+<script src="//cdn.shopify.com/s/files/1/0109/6372/t/16/assets/shop.js?6013872527061668110" type="text/javascript"></script>
+<!-- ToolTip -->
+<script src="//cdn.shopify.com/s/files/1/0109/6372/t/16/assets/jquery.tooltip.min.js?6013872527061668110" type="text/javascript"></script>
+<script src="//cdn.shopify.com/s/files/1/0109/6372/t/16/assets/jquery.fancybox.pack.js?6013872527061668110" type="text/javascript"></script>
+<script src="//cdn.shopify.com/s/files/1/0109/6372/t/16/assets/jtip.js?6013872527061668110" type="text/javascript"></script>
+<script src="//cdn.shopify.com/s/files/1/0109/6372/t/16/assets/jquery.mosaicflow.min.js?6013872527061668110" type="text/javascript"></script>
+<script src="//cdn.shopify.com/s/files/1/0109/6372/t/16/assets/instafeed.js?6013872527061668110" type="text/javascript"></script>
+<link href="http://fonts.googleapis.com/css?family=Buda" rel="stylesheet" type="text/css"/>
+<script type="text/javascript">
+  Shopify.money_format = "<span class=money> ${{amount}} </span>";
+  Shopify.currency = "USD";
+  </script>
+<meta content="Luxire Custom Clothing" property="og:site_name"/>
+<meta content="//cdn.shopify.com/s/files/1/0109/6372/products/10986889_858455537549497_3516335433618450717_o_compact.jpeg?v=1427722184" property="og:image"/>
+<script type="text/javascript">
+(function e(){var e=document.createElement("script");e.type="text/javascript",e.async=true,e.src="//staticw2.yotpo.com/zVkokdWQX9kDFobHnQyqc0ABNWtdRmnn1KdBpPFP/widget.js";var t=document.getElementsByTagName("script")[0];t.parentNode.insertBefore(e,t)})();
+</script>
+<!-- start Mixpanel --><script type="text/javascript">(function(f,b){if(!b.__SV){var a,e,i,g;window.mixpanel=b;b._i=[];b.init=function(a,e,d){function f(b,h){var a=h.split(".");2==a.length&&(b=b[a[0]],h=a[1]);b[h]=function(){b.push([h].concat(Array.prototype.slice.call(arguments,0)))}}var c=b;"undefined"!==typeof d?c=b[d]=[]:d="mixpanel";c.people=c.people||[];c.toString=function(b){var a="mixpanel";"mixpanel"!==d&&(a+="."+d);b||(a+=" (stub)");return a};c.people.toString=function(){return c.toString(1)+".people (stub)"};i="disable track track_pageview track_links track_forms register register_once alias unregister identify name_tag set_config people.set people.set_once people.increment people.append people.track_charge people.clear_charges people.delete_user".split(" ");
+for(g=0;g<i.length;g++)f(c,i[g]);b._i.push([a,e,d])};b.__SV=1.2;a=f.createElement("script");a.type="text/javascript";a.async=!0;a.src="//cdn.mxpnl.com/libs/mixpanel-2-latest.min.js";e=f.getElementsByTagName("script")[0];e.parentNode.insertBefore(a,e)}})(document,window.mixpanel||[]);
+mixpanel.init("750f253003a3fb8d1a2941c2686bdb7d");
+
+
+</script><!-- end Mixpanel -->
+<script type="text/javascript">
+    mixpanel.track_links("#nav a", "click nav link", {"referrer": document.referrer });
+</script>
+<script>window.mlvedaShopCurrency = "USD";
+window.supported_currencies = "INR GBP CAD USD AUD EUR JPY";
+</script>
+<link href="http://custom.luxire.com/products/sky-blue-oxford" rel="canonical"/>
+</head>
+<script type="text/javascript">
+window.__wtw_lucky_site_id = 33088;
+
+	(function() {
+		var wa = document.createElement('script'); wa.type = 'text/javascript'; wa.async = true;
+		wa.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://cdn') + '.luckyorange.com/w.js';
+		var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(wa, s);
+	  })();
+	</script>
+<body>
+<div class="container">
+<div id="header">
+<div class="clearfix" id="branding">
+<div class="right">
+<ul id="customer-panel">
+<li id="customer_login_link">
+<span class="customer">
+<a href="/account/login" id="customer_login_link">Login</a>
+<a href="/account/register" id="customer_register_link">Sign up</a>
+</span>
+</li><a href="/apps/mywishlist">My Wishlist</a>
+<li id="cart">
+<a href="/cart">
+<span class="cart-total-items"><span class="count">0</span> Items (<span class="total_price"><span class="money"> $0.00 </span></span>)</span></a>
+<!--<div id="cart-updated"><a href="/cart">Added to cart</a></div>-->
+</li>
+<li>
+<form action="/search" class="searchform" id="search_form" name="search">
+<input class="replace" name="q" type="text" value="Search..."/>
+</form>
+</li>
+</ul>
+<!--
+      
+            
+            <div id="search">
+               <form id="search_form" class="searchform" name="search" action="/search">
+            
+            <input type="text" class="replace" name="q" value="Search..." />
+               <input type="submit" value="Search" id="search-submit">
+            
+            
+         
+          </form>
+            </div>
+            
+-->
+</div>
+<!-- end of right -->
+<div id="logo">
+<a class="shop_logo" href="/"><img alt="Luxire Custom Clothing" class="png_bg" src="//cdn.shopify.com/s/files/1/0109/6372/t/16/assets/Luxire_logo_Jan_2015_t.png?6013872527061668110"/></a>
+</div>
+</div>
+<!-- end of #branding -->
+<div id="nav">
+<ul class="clearfix">
+<li class="dropdown"><a class="" href="/collections/dress-shirts"><span class="top_menu_font_AA">Shirts</span></a>
+<ul class="dropdown">
+<li><a href="/collections/dress-shirts">All</a></li>
+<li><a href="/collections/polos">Polos &amp; Knits</a></li>
+<li><a href="http://custom.luxire.com/blogs/luxire-custom/7076752-luxire-tuxedo-shirt">Tuxedo</a></li>
+<li><a href="http://custom.luxire.com/blogs/luxire-custom/7574258-detachable-collar-shirts">Detachable Collar</a></li>
+<li><a href="http://custom.luxire.com/blogs/luxire-custom/6514547-classic-vintage-shirt">Vintage Shirt</a></li>
+<li><a href="/collections/shirts-by-price">Sort by Price</a></li>
+</ul>
+</li>
+<li class="dropdown"><a class="" href="/collections/pants"><span class="top_menu_font_AA">Pants</span></a>
+<ul class="dropdown">
+<li><a href="/collections/pants-sorted-by-price">Sort by Price</a></li>
+</ul>
+</li>
+<li><a class="" href="/collections/jackets-coats"><span class="top_menu_font_AA">Jackets &amp; Coats</span></a></li>
+<li><a class="" href="/collections/accessories"><span class="top_menu_font_AA">Accessories</span></a></li>
+<li><a class="" href="/pages/quality-and-satisfaction"><span class="top_menu_font_AA">Quality</span></a></li>
+<li class="dropdown"><a class="" href="/pages/how-to-measure"><span class="top_menu_font_AA">Measurements</span></a>
+<ul class="dropdown">
+<li><a href="/pages/how-to-measure">Measure Existing Shirt</a></li>
+<li><a href="/pages/body-measurements">Shirt Body Measurements</a></li>
+<li><a href="/pages/pant-measurements">Pant Measurements</a></li>
+<li><a href="http://cdn.shopify.com/s/files/1/0109/6372/files/Luxire_standard_size_chart.jpg?10557">Standard Sizes</a></li>
+<li><a href="/pages/body-measurement-for-pants">Pants Body Measurement</a></li>
+<li><a href="/pages/replicate-existing">Send Existing Garment for Measurements</a></li>
+</ul>
+</li>
+<li><a class="" href="/pages/reviews"><span class="top_menu_font_AA">Reviews</span></a></li>
+<li><a class="" href="/pages/responsible-manufacturing"><span class="top_menu_font_AA">Responsible Manufacturing</span></a></li>
+<li class="dropdown"><a class="" href="/blogs/news"><span class="top_menu_font_AA">Gallery</span></a>
+<ul class="dropdown">
+<li><a href="http://custom.luxire.com/blogs/luxire-custom/6172894-some-of-our-creations">Gallery</a></li>
+<li><a href="http://custom.luxire.com/blogs/luxire-custom/6172894-some-of-our-creations">Shirts</a></li>
+<li><a href="http://custom.luxire.com/blogs/luxire-custom/7170276-luxire-pants">Pants</a></li>
+<li><a href="http://custom.luxire.com/blogs/luxire-custom/10444949-outerwear">Outerwear</a></li>
+<li><a href="http://custom.luxire.com/blogs/news/15442045-luxire-bags-and-accessories">Bags</a></li>
+<li><a href="http://custom.luxire.com/blogs/news/16375952-independent-reviews-of-luxire-bags">Bag Reviews</a></li>
+<li><a href="http://custom.luxire.com/blogs/news/16358200-footwear">Shoes</a></li>
+<li><a href="http://custom.luxire.com/blogs/luxire-custom/6514547-classic-vintage-shirt">Vintage Shirt</a></li>
+<li><a href="http://custom.luxire.com/blogs/luxire-custom/7574258-detachable-collar-shirts">Detachable Collars</a></li>
+<li><a href="http://custom.luxire.com/blogs/luxire-custom/7076752-luxire-tuxedo-shirt">Tuxedo</a></li>
+<li><a href="/pages/buttons-and-accessories-options">Button Options</a></li>
+<li><a href="http://custom.luxire.com/blogs/news/17814640-viscose-lining">Lining Options</a></li>
+</ul>
+</li>
+</ul>
+</div>
+<!-- end of #nav -->
+</div>
+<!-- end of header -->
+<!-- <section id="body" class="clearfix"> -->
+<div align="right" class="pick_currency" style="display: none;"><label for="currencies">Pick a currency </label>
+<select id="currencies" name="currencies" style="height: 100%;">
+<option selected="selected" value="USD">USD</option>
+<option value="INR">INR</option>
+<option value="GBP">GBP</option>
+<option value="CAD">CAD</option>
+<option value="AUD">AUD</option>
+<option value="EUR">EUR</option>
+<option value="JPY">JPY</option>
+</select>
+<br/><br/></div>
+<!-- Bold: Custom Orders -->
+<!--- Bold Apps: Premium Options -->
+<script src="//cdn.shopify.com/s/files/1/0109/6372/t/16/assets/ui.selectmenu.js?6013872527061668110" type="text/javascript"></script>
+<script type="text/javascript">
+jQuery(document).ready(function($){
+    $("img.tooltip").tooltip({
+        showURL: false,
+        fade: 350,
+        track: true,
+        delay: 0,
+        top: 15,
+        left: -25 });
+        
+    $('.zoom').jqzoom({
+        zoomType: 'standard',
+        alwaysOn : false,
+        zoomWidth: 535,
+        zoomHeight:290,
+        position:'left',
+        xOffset: 30,
+		yOffset:80
+	});
+	
+    var b_img = $('.thumbs ul li:first a.zoom').attr('href');
+	$('#largeImg img').attr('src',b_img);
+    
+    //$('#Field13, #Field14, #Field16, #Field20, #Field21, #Field22, #Field23, #Field24, #Field25, #Field26, #product-select, #location_sel, #color_sel, #font_sel').selectmenu({style:'dropdown'});
+
+    $(".CSIC").click(function(){
+        var bgclass = $(this).attr("class");
+        newclass = bgclass.replace("CSIC", "");
+    	newclass = trim(newclass);
+		modclass = newclass.substring(0, newclass.length-1);
+		forn = newclass.substring(newclass.length-1, newclass.length);
+		
+		$(this).parent().parent().find(".CSIC").each(function(){
+			var bg1class = $(this).attr("class");
+			new1class = bg1class.replace("CSIC", "");
+			new1class = trim(new1class);
+			mod1class = new1class.substring(0, new1class.length-1);
+			$(this).removeClass(new1class).addClass(mod1class+"f");
+			$(this).removeAttr("checked");
+		});
+		
+		if(forn == "f") {
+			$(this).removeClass(newclass).addClass(modclass+"n");
+			$(this).next("input").attr("checked", "checked");
+		}
+		else {
+			$(this).removeClass(newclass).addClass(modclass+"n");
+			$(this).next("input").attr("checked", "checked");
+		}
+	});
+	
+	$("#additionaloptionslinks").click(function(){
+		$("#bodySizeDiv").slideToggle("fast");
+	});
+	
+	function trim(stringToTrim) {
+		return stringToTrim.replace(/^\s+|\s+$/g,"");
+	}
+	function ltrim(stringToTrim) {
+		return stringToTrim.replace(/^\s+/,"");
+	}
+	function rtrim(stringToTrim) {
+		return stringToTrim.replace(/\s+$/,"");
+	}
+    
+});
+function callfancybox(obj)
+{
+   $(obj).fancybox();
+}
+</script>
+<!-- end of header -->
+<div class="productsL" style="position:relative">
+<div style=" clear:both; background:url(//cdn.shopify.com/s/files/1/0109/6372/t/16/assets/bg3_4Top.png?6013872527061668110) no-repeat; height:14px; width:567px;"> </div>
+<div class="proImg" style="width:460px">
+<div id="largeImg" style="position:relative; text-align: center;">
+<img height="278" src=""/>
+</div>
+</div>
+<div style=" clear:both; background:url(//cdn.shopify.com/s/files/1/0109/6372/t/16/assets/bg3_4Btm.png?6013872527061668110) no-repeat; height:17px; width:567px;"> </div>
+<br/>
+<div style=" clear:both; background:url(//cdn.shopify.com/s/files/1/0109/6372/t/16/assets/bg3_4Top.png?6013872527061668110) no-repeat; height:14px; width:567px;"> </div>
+<div class="thumbs bx-section1 proImg">
+<ul id="product-thumbs">
+<li class=" zoomThumbActive first">
+<a class="zoom" href="//cdn.shopify.com/s/files/1/0109/6372/products/10986889_858455537549497_3516335433618450717_o_1024x1024.jpeg?v=1427722184" onclick="callfancybox(this);">
+<img alt="" src="//cdn.shopify.com/s/files/1/0109/6372/products/10986889_858455537549497_3516335433618450717_o_small.jpeg?v=1427722184"/>
+</a>
+</li>
+<li class="">
+<a class="zoom" href="//cdn.shopify.com/s/files/1/0109/6372/products/10929126_869529639775420_5933430429968540341_n_1024x1024.jpeg?v=1427722184" onclick="callfancybox(this);">
+<img alt="" src="//cdn.shopify.com/s/files/1/0109/6372/products/10929126_869529639775420_5933430429968540341_n_small.jpeg?v=1427722184"/>
+</a>
+</li>
+<li class="">
+<a class="zoom" href="//cdn.shopify.com/s/files/1/0109/6372/products/Sky_Blue_Oxford_Luxire_Shirt_1024x1024.jpg?v=1427722184" onclick="callfancybox(this);">
+<img alt="" src="//cdn.shopify.com/s/files/1/0109/6372/products/Sky_Blue_Oxford_Luxire_Shirt_small.jpg?v=1427722184"/>
+</a>
+</li>
+<li class="">
+<a class="zoom" href="//cdn.shopify.com/s/files/1/0109/6372/products/Sky_Blue_Oxford_1024x1024.jpg?v=1427722184" onclick="callfancybox(this);">
+<img alt="" src="//cdn.shopify.com/s/files/1/0109/6372/products/Sky_Blue_Oxford_small.jpg?v=1427722184"/>
+</a>
+</li>
+</ul>
+<a class="freeship">Mouse over thumbnail to zoom, click to open large image</a>
+</div>
+<div style=" clear:both; background:url(//cdn.shopify.com/s/files/1/0109/6372/t/16/assets/bg3_4Btm.png?6013872527061668110) no-repeat; height:17px; width:567px;"> </div>
+<div class="clearFloat"></div>
+</div>
+<!--end Banner-->
+<div class="proDetails">
+<div style=" clear:both; background:url(//cdn.shopify.com/s/files/1/0109/6372/t/16/assets/bg3_4RghtTop.png?6013872527061668110) no-repeat; height:14px; width:361px;"> </div>
+<div class="proCntnt">
+<h1>Sky Blue Oxford</h1>
+<p> Price: <span class="price"><span class="money"> $69.99 </span></span> </p>
+<ul>
+<li>2 Ply, 100% Premium, super fine Cotton</li>
+<li>Classic Oxford by Brembana</li>
+<li>Thick Mother-of-pearl buttons</li>
+<li>Only Luxire offers 1mm Stainless steel collar-stays with all shirts</li>
+<li>20 stitches per inch, for the refined look</li>
+<li>Machine Wash Cold, Tumble Dry</li>
+</ul>
+<br/>
+<span class="customize_button"><a href="#Customize"><img src="//cdn.shopify.com/s/files/1/0109/6372/t/16/assets/customize_and_buy.png?6013872527061668110"/></a></span> <div class="div-wishlist"> <style>.div-wishlist{width:36px;display:inline-block;height:36px;vertical-align:top;cursor:pointer;}.hearted{background:url('//cdn.shopify.com/s/files/1/0109/6372/t/16/assets/hearted.png?6013872527061668110') no-repeat scroll 0 -3px transparent;display:inline-block;height:36px;background-size:36px;position:relative;}.hearted .removeFavorite{color:#FFF;background:none repeat scroll 0 0 transparent!important;border:0 none;font-size:13px;height:36px;position:relative;width:36px;box-shadow:none;padding:0px;cursor:pointer;}.hearted .addToFavorite{color:red;background:none repeat scroll 0 0 transparent!important;border:0 none;font-size:18px;height:40px;position:relative;width:52px;margin:7px -1px;padding:0px;cursor:pointer;}.hearted img,.nothearted img{left:10px;top:10px;position:absolute;display:none;}.nothearted{background:url('//cdn.shopify.com/s/files/1/0109/6372/t/16/assets/nothearted.png?6013872527061668110') no-repeat scroll 0 -3px transparent;display:inline-block;height:36px;position:relative;background-size:36px;}.nothearted .addToFavorite{color:red;background:none repeat scroll 0 0 transparent!important;border:0 none;font-size:13px;height:36px;position:relative;width:36px;box-shadow:none;padding:0px; cursor:pointer;}.nothearted .notLoggedIn{color:red;background:none repeat scroll 0 0 transparent!important;border:0 none;font-size:13px;height:36px;position:relative;width:36px;display:inline-block!important;box-shadow:none;padding:0px;cursor:pointer;}.nothearted .notLoggedIn:focus,.hearted .removeFavorite:focus,.nothearted .addToFavorite:focus{box-shadow:none;outline: none;}</style> <div class="nothearted"> <input class="notLoggedIn" cust_id="" id="95745126" title="Add to Wishlist" type="button" value="11"/> </div> </div> <div class="overlay" style="display:none; background-color: transparent; height: 45px; margin: 6px 0 0 -3px; position: absolute; width: 55px; z-index: 1000;"> </div> <script src="//shopiapps.in/wishlistapp/addtowishlist.js" type="text/javascript"></script>
+<div class="yotpo bottomLine" data-appkey="zVkokdWQX9kDFobHnQyqc0ABNWtdRmnn1KdBpPFP" data-bread-crumbs="cotton;Luxire;Medium;Oxford;" data-description="&lt;ul&gt;
+&lt;li&gt;2 Ply, 100% Premium, super fine Cotton&lt;/li&gt;
+&lt;li&gt;Classic Oxford by Brembana&lt;/li&gt;
+&lt;li&gt;Thick Mother-of-pearl buttons&lt;/li&gt;
+&lt;li&gt;Only Luxire offers 1mm Stainless steel collar-stays with all shirts&lt;/li&gt;
+&lt;li&gt;20 stitches per inch, for the refined look&lt;/li&gt;
+&lt;li&gt;Machine Wash Cold, Tumble Dry&lt;/li&gt;
+&lt;/ul&gt;" data-domain="luxire.myshopify.com" data-image-url="//cdn.shopify.com/s/files/1/0109/6372/products/10986889_858455537549497_3516335433618450717_o_large.jpeg%3Fv=1427722184" data-name="Sky Blue Oxford" data-product-id="95745126" data-product-models="95745126" data-url="">
+</div>
+<br/>
+<iframe allowtransparency="true" frameborder="0" scrolling="no" src="//www.facebook.com/plugins/like.php?href=http%3A%2F%2Fluxire.com&amp;send=false&amp;layout=button_count&amp;width=450&amp;show_faces=false&amp;action=like&amp;colorscheme=light&amp;font&amp;height=21" style="border:none; overflow:hidden; width:450px; height:21px;"></iframe>
+<span class="proBio">type: Dress Shirt</span> </div>
+<div style=" clear:both; background:url(//cdn.shopify.com/s/files/1/0109/6372/t/16/assets/bg3_4RghtBtm.png?6013872527061668110) no-repeat; height:17px; width:361px;"> </div>
+</div>
+<a name="Customize"></a><a href="http://custom.luxire.com/pages/how-to-measure" target="_new">How to Measure?</a>
+<div class="proCalculation" id="product-form">
+<form action="/cart/add" class="variants clearfix shappify_add_to_cart_form" enctype="multipart/form-data" id="add-item-form" method="post">
+<div class="shirtsize bx-section1">
+<div style="background:url(//cdn.shopify.com/s/files/1/0109/6372/t/16/assets/bgHomeSpcalTop.png?6013872527061668110) no-repeat; height:18px; width:223px;"> </div>
+<div class="shirtsizeCntnt">
+<h2>Select a Shirt Size</h2>
+<div class="Div2" style="margin-top:16px">
+<h3>Neck Size</h3>
+<select class="field select small" id="Field13" name="properties[Neck]" style="Z-INDEX:0">
+<option selected="selected" value="">Select</option>
+<option value="13.00">"13.00"</option>
+<option value="13.25">"13.25"</option>
+<option value="13.50">"13.50"</option>
+<option value="13.75">"13.75"</option>
+<option value="14.00">"14.00"</option>
+<option value="14.25">"14.25"</option>
+<option value="14.50">"14.50"</option>
+<option value="14.75">"14.75"</option>
+<option value="15.00">"15.00"</option>
+<option value="15.25">"15.25"</option>
+<option value="15.50">"15.50"</option>
+<option value="15.75">"15.75"</option>
+<option value="16.00">"16.00"</option>
+<option value="16.25">"16.25"</option>
+<option value="16.50">"16.50"</option>
+<option value="16.75">"16.75"</option>
+<option value="17.00">"17.00"</option>
+<option value="17.25">"17.25"</option>
+<option value="17.50">"17.50"</option>
+<option value="17.75">"17.75"</option>
+<option value="18.00">"18.00"</option>
+<option value="18.25">"18.25"</option>
+<option value="18.50">"18.50"</option>
+<option value="18.75">"18.75"</option>
+<option value="19.00">"19.00"</option>
+<option value="19.25">"19.25"</option>
+<option value="19.50">"19.50"</option>
+<option value="19.75">"19.75"</option>
+<option value="20.00">"20.00"</option>
+<option value="20.25">"20.25"</option>
+<option value="20.50">"20.50"</option>
+<option value="20.75">"20.75"</option>
+<option value="21.00">"21.00"</option>
+<option value="21.25">"21.25"</option>
+<option value="21.50">"21.50"</option>
+<option value="21.75">"21.75"</option>
+<option value="22.00">"22.00"</option>
+<option value="22.25">"22.25"</option>
+<option value="22.50">"22.50"</option>
+<option value="22.75">"22.75"</option>
+<option value="23.00">"23.00"</option>
+<option value="23.25">"23.25"</option>
+<option value="23.50">"23.50"</option>
+<option value="23.75">"23.75"</option>
+<option value="24.00">"24.00"</option>
+<option value="24.25">"24.25"</option>
+<option value="24.50">"24.50"</option>
+<option value="24.75">"24.75"</option>
+<option value="25.00">"25.00"</option>
+</select>
+</div>
+<div id="shappify_custom_options_95745126" style="display:none"></div><script async="" src="//secure.apps.shappify.com/apps/options/generate_options.php?shop=luxire.myshopify.com&amp;product_id=95745126"></script>
+<div class="Div2">
+<h3>Sleeve Length</h3><img class="tooltip" height="19" src="//cdn.shopify.com/s/files/1/0109/6372/t/16/assets/question.png?6013872527061668110" title="Select the desired length of the sleeve, measured from center of yoke to first break of thumb. Need the two sleeves of seperate sizes? Let us know through notes available on the shopping cart page." width="19px"/>
+<select class="field select small" id="Field14" name="properties[Sleeve]" tabindex="15">
+<option selected="selected" value="">Select</option>
+<option value="Short">"Short Sleeve"</option>
+<option value="30">"30.00"</option>
+<option value="30.25">"30.25"</option>
+<option value="30.50">"30.50"</option>
+<option value="30.75">"30.75"</option>
+<option value="31.00">"31.00"</option>
+<option value="31.25">"31.25"</option>
+<option value="31.50">"31.50"</option>
+<option value="31.75">"31.75"</option>
+<option value="32.00">"32.00"</option>
+<option value="32.25">"32.25"</option>
+<option value="32.50">"32.50"</option>
+<option value="32.75">"32.75"</option>
+<option value="33.00">"33.00"</option>
+<option value="33.25">"33.25"</option>
+<option value="33.50">"33.50"</option>
+<option value="33.75">"33.75"</option>
+<option value="34.00">"34.00"</option>
+<option value="34.25">"34.25"</option>
+<option value="34.50">"34.50"</option>
+<option value="34.75">"34.75"</option>
+<option value="35.00">"35.00"</option>
+<option value="35.25">"35.25"</option>
+<option value="35.50">"35.50"</option>
+<option value="35.75">"35.75"</option>
+<option value="36.00">"36.00"</option>
+<option value="36.25">"36.25"</option>
+<option value="36.50">"36.50"</option>
+<option value="36.75">"36.75"</option>
+<option value="37.00">"37.00"</option>
+<option value="37.25">"37.25"</option>
+<option value="37.50">"37.50"</option>
+<option value="37.75">"37.75"</option>
+<option value="38.00">"38.00"</option>
+<option value="38.25">"38.25"</option>
+<option value="38.50">"38.50"</option>
+<option value="38.75">"38.75"</option>
+<option value="39.00">"39.00"</option>
+<option value="39.25">"39.25"</option>
+<option value="39.50">"39.50"</option>
+<option value="39.75">"39.75"</option>
+<option value="40.00">"40.00"</option>
+</select>
+</div>
+<div class="Div2">
+<h3>Fit Type</h3>
+<select class="field select medium" id="Field16" name="properties[Fit]" tabindex="16">
+<option selected="selected" value="">Select</option>
+<option value="Regular">Regular</option>
+<option value="Slim">Slim</option>
+<option value="SuperSlim">Super Slim</option>
+<option value="Custom">Custom</option>
+</select>
+</div>
+<div class="div2_1">Custom Measurements  v</div>
+</div>
+<div style="background:url(//cdn.shopify.com/s/files/1/0109/6372/t/16/assets/bgHomeSpcalBtm.png?6013872527061668110) no-repeat; height:21px; width:223px;"> </div>
+</div>
+<div class="shirtcustomparts bx-section1">
+<div style="background:url(//cdn.shopify.com/s/files/1/0109/6372/t/16/assets/bgHomeFeaturTop.png?6013872527061668110) no-repeat; height:24px; width:703px;"> </div>
+<div class="shirtcustompartsCntnt">
+<h2><span style="margin-right:13px">Design Your Shirt </span> <h6><u><a class="zoom" href="http://cdn.shopify.com/s/files/1/0109/6372/files/Cart_page_notes.jpg?10885" onclick="callfancybox(this);">
+<img alt="notes" src="https://static.shopify.com/s/files/1/0109/6372/t/9/assets/blank.gif?10896"/>Your choice not listed? Add to cart with default option, Add your choice to the notes on the cart page</a></u></h6>
+<div>
+<div>
+<div class="customDiv" style="width:142px">
+<h3>Collar</h3>
+<div class="custom_sect">
+<h4>Semi Spread</h4><img class="tooltip" height="19" src="//cdn.shopify.com/s/files/1/0109/6372/t/16/assets/question.png?6013872527061668110" title="Standard Classic Collar, fused by default. Can be made unfused. " width="19px"/>
+<div class="CSIC semi_spread_of" style="width:102px; height:69px; margin-left:10px"></div>
+<input class="field radio" id="Field1_0" name="properties[Collar]" onchange="handleInput(this);" onmouseup="handleInput(this);" required="" tabindex="1" type="radio" value="Semi Spread"/>
+</div>
+<div class="custom_sect">
+<h4>Button Down</h4><img class="tooltip" height="19" src="//cdn.shopify.com/s/files/1/0109/6372/t/16/assets/question.png?6013872527061668110" title="Button Down Collar, unfused by default" width="19px"/>
+<div class="CSIC button_down_of" style="width:102px; height:69px; margin-left:10px"></div>
+<input class="field radio" id="Field1_1" name="properties[Collar]" onchange="handleInput(this);" onmouseup="handleInput(this);" required="" tabindex="2" type="radio" value="Button Down"/>
+</div>
+<div class="custom_sect">
+<h4>English Spread</h4><img class="tooltip" height="19" src="//cdn.shopify.com/s/files/1/0109/6372/t/16/assets/question.png?6013872527061668110" title="A wide spread collar, fused by default. Can be made unfused. " width="19px"/>
+<div class="CSIC english_spread_of" style="width:102px; height:69px; margin-left:10px"></div>
+<input class="field radio" id="Field1_2" name="properties[Collar]" onchange="handleInput(this);" onmouseup="handleInput(this);" required="" tabindex="3" type="radio" value="English"/>
+</div>
+<div class="custom_sect">
+<h4>Spearpoint</h4><img class="tooltip" height="19" src="//cdn.shopify.com/s/files/1/0109/6372/t/16/assets/question.png?6013872527061668110" title="A spear point collar, unfused by default. Can be made fused. " width="19px"/>
+<div class="CSIC spear_point_of" style="width:102px; height:69px; margin-left:10px"></div>
+<input class="field radio" id="Field1_3" name="properties[Collar]" onchange="handleInput(this);" onmouseup="handleInput(this);" required="" tabindex="4" type="radio" value="Spear Point"/>
+</div>
+<div class="custom_sect">
+<h4>Custom</h4><img class="tooltip" height="19" src="//cdn.shopify.com/s/files/1/0109/6372/t/16/assets/question.png?6013872527061668110" title="A custom collar - provide details in notes" width="19px"/>
+<div class="CSIC custom_collar_of" style="width:102px; height:69px; margin-left:10px"></div>
+<input checked="checked" class="field radio" id="Field1_4" name="properties[Collar]" onchange="handleInput(this);" onmouseup="handleInput(this);" required="" tabindex="5" type="radio" value="Custom"/>
+</div>
+</div>
+<div class="customDiv" style="width:136px">
+<h3>Cuffs</h3>
+<div class="custom_sect">
+<h4>One-Button Barrel</h4><img class="tooltip" height="19" src="//cdn.shopify.com/s/files/1/0109/6372/t/16/assets/question.png?6013872527061668110" title="One-Button Barrel Cuff" width="19px"/>
+<div class="CSIC onebutton_barrel_of" style="width:104px; height:69px; margin-left:10px"></div>
+<input class="field radio" id="Field3_0" name="properties[Cuff]" onchange="handleInput(this);" onmouseup="handleInput(this);" required="" tabindex="6" type="radio" value="1-Button"/>
+</div>
+<div class="custom_sect">
+<h4>Two-Button</h4><img class="tooltip" height="19" src="//cdn.shopify.com/s/files/1/0109/6372/t/16/assets/question.png?6013872527061668110" title="Two-Button Cuff" width="19px"/>
+<div class="CSIC twobutton_of" style="width:104px; height:69px; margin-left:10px"></div>
+<input class="field radio" id="Field3_1" name="properties[Cuff]" onchange="handleInput(this);" onmouseup="handleInput(this);" required="" tabindex="7" type="radio" value="2-Button"/>
+</div>
+<div class="custom_sect">
+<h4>French</h4><img class="tooltip" height="19" src="//cdn.shopify.com/s/files/1/0109/6372/t/16/assets/question.png?6013872527061668110" title="French Cuff" width="19px"/>
+<div class="CSIC french_of" style="width:104px; height:69px; margin-left:10px"></div>
+<input class="field radio" id="Field3_2" name="properties[Cuff]" onchange="handleInput(this);" onmouseup="handleInput(this);" required="" tabindex="8" type="radio" value="French"/>
+</div>
+<div class="custom_sect">
+<h4>Custom</h4><img class="tooltip" height="19" src="//cdn.shopify.com/s/files/1/0109/6372/t/16/assets/question.png?6013872527061668110" title="Custom Cuff - provide details in notes" width="19px"/>
+<div class="CSIC custom_cuff_of" style="width:104px; height:69px; margin-left:10px"></div>
+<input checked="checked" class="field radio" id="Field3_3" name="properties[Cuff]" onchange="handleInput(this);" onmouseup="handleInput(this);" required="" tabindex="9" type="radio" value="Custom"/>
+</div>
+</div>
+<div class="customDiv" style="width:136px">
+<h3>Back</h3>
+<div class="custom_sect">
+<h4>Center Pleats</h4><img class="tooltip" height="19" src="//cdn.shopify.com/s/files/1/0109/6372/t/16/assets/question.png?6013872527061668110" title="Pleats at the top center of the back, just below the yoke" width="19px"/>
+<div class="CSIC center_pleats_of" style="width:102px; height:69px; margin-left:10px"></div>
+<input checked="checked" class="field radio" id="Field4_0" name="properties[Back]" onchange="handleInput(this);" onmouseup="handleInput(this);" required="" tabindex="10" type="radio" value="Center Pleats"/>
+</div>
+<div class="custom_sect">
+<h4>Side Pleats</h4><img class="tooltip" height="19" src="//cdn.shopify.com/s/files/1/0109/6372/t/16/assets/question.png?6013872527061668110" title="Pleats at the top sides of the back, just below the yoke" width="19px"/>
+<div class="CSIC side_pleats_of" style="width:102px; height:69px; margin-left:10px"></div>
+<input class="field radio" id="Field4_1" name="properties[Back]" onchange="handleInput(this);" onmouseup="handleInput(this);" required="" tabindex="11" type="radio" value="Side Pleats"/>
+</div>
+<div class="custom_sect">
+<h4>No Pleats</h4><img class="tooltip" height="19" src="//cdn.shopify.com/s/files/1/0109/6372/t/16/assets/question.png?6013872527061668110" title="No pleats" width="19px"/>
+<div class="CSIC no_pleats_of" style="width:102px; height:69px; margin-left:10px"></div>
+<input class="field radio" id="Field4_2" name="properties[Back]" onchange="handleInput(this);" onmouseup="handleInput(this);" required="" tabindex="12" type="radio" value="No Pleats"/>
+</div>
+<div class="custom_sect">
+<h4>Shirred</h4><img class="tooltip" height="19" src="//cdn.shopify.com/s/files/1/0109/6372/t/16/assets/question.png?6013872527061668110" title="Shirred " width="19px"/>
+<div class="CSIC shirred_pleats_of" style="width:102px; height:69px; margin-left:10px"></div>
+<input class="field radio" id="Field4_3" name="properties[Back]" onchange="handleInput(this);" onmouseup="handleInput(this);" required="" tabindex="13" type="radio" value="Shirred"/>
+</div>
+<div class="custom_sect">
+<h4>Custom</h4><img class="tooltip" height="19" src="//cdn.shopify.com/s/files/1/0109/6372/t/16/assets/question.png?6013872527061668110" title="Custom pleats - provide details in notes" width="19px"/>
+<div class="CSIC custom_pleats_of" style="width:102px; height:69px; margin-left:10px"></div>
+<input checked="checked" class="field radio" id="Field4_4" name="properties[Back]" onchange="handleInput(this);" onmouseup="handleInput(this);" required="" tabindex="14" type="radio" value="Custom Pleats"/>
+</div>
+</div>
+<div class="customDiv" style="width:136px">
+<h3>Pocket</h3>
+<div class="custom_sect">
+<h4>Pocket</h4><img class="tooltip" height="19" src="//cdn.shopify.com/s/files/1/0109/6372/t/16/assets/question.png?6013872527061668110" title="Add a pocket" width="19px"/>
+<div class="CSIC pocket_of" style="width:102px; height:69px; margin-left:10px"></div>
+<input class="field radio" id="Field5_0" name="properties[Pocket]" onchange="handleInput(this);" onmouseup="handleInput(this);" required="" tabindex="15" type="radio" value="Yes"/>
+</div>
+<div class="custom_sect">
+<h4>Left Pocket with Flap </h4><img class="tooltip" height="19" src="//cdn.shopify.com/s/files/1/0109/6372/t/16/assets/question.png?6013872527061668110" title="If you would like pockets on both sides with flap, add the same to the notes below" width="19px"/>
+<div class="CSIC flap_pocket_of" style="width:102px; height:69px; margin-left:10px"></div>
+<input class="field radio" id="Field5_1" name="properties[Pocket]" onchange="handleInput(this);" onmouseup="handleInput(this);" required="" tabindex="16" type="radio" value="Left Pocket With Flap"/>
+</div>
+<div class="custom_sect">
+<h4>Custom Pocket</h4><img class="tooltip" height="19" src="//cdn.shopify.com/s/files/1/0109/6372/t/16/assets/question.png?6013872527061668110" title="Custom Pocket - provide details in notes" width="19px"/>
+<div class="CSIC custom_pocket_of" style="width:102px; height:69px; margin-left:10px"></div>
+<input checked="checked" class="field radio" id="Field5_2" name="properties[Pocket]" onchange="handleInput(this);" onmouseup="handleInput(this);" required="" tabindex="17" type="radio" value="Custom"/>
+</div>
+<div class="custom_sect">
+<h4>No Pocket</h4><img class="tooltip" height="19" src="//cdn.shopify.com/s/files/1/0109/6372/t/16/assets/question.png?6013872527061668110" title="No Pocket" width="19px"/>
+<div class="CSIC no_pocket_of" style="width:102px; height:69px; margin-left:10px"></div>
+<input class="field radio" id="Field5_3" name="properties[Pocket]" onchange="handleInput(this);" onmouseup="handleInput(this);" required="" tabindex="18" type="radio" value="No"/>
+</div>
+</div>
+<div class="customDiv" style="width:150px">
+<h3>Placket</h3>
+<div class="custom_sect">
+<h4>Standard Placket</h4>
+<img class="tooltip" height="19" src="//cdn.shopify.com/s/files/1/0109/6372/t/16/assets/question.png?6013872527061668110" title="Placket at the front" width="19px"/>
+<div class="CSIC standard_placket_of" style="width:105px; height:69px; margin-left:10px"></div>
+<input class="field radio" id="Field6_0" name="properties[Placket]" onchange="handleInput(this);" onmouseup="handleInput(this);" required="" tabindex="19" type="radio" value="Yes"/>
+</div>
+<div class="custom_sect">
+<h4>Plain Front</h4><img class="tooltip" height="19" src="//cdn.shopify.com/s/files/1/0109/6372/t/16/assets/question.png?6013872527061668110" title="No placket" width="19px"/>
+<div class="CSIC plain_front_of" style="width:104px; height:69px; margin-left:10px"></div>
+<input class="field radio" id="Field6_1" name="properties[Placket]" onchange="handleInput(this);" onmouseup="handleInput(this);" required="" tabindex="20" type="radio" value="No"/>
+</div>
+<div class="custom_sect">
+<h4>Pullover/Popover Shirt Front</h4><img class="tooltip" height="19" src="//cdn.shopify.com/s/files/1/0109/6372/t/16/assets/question.png?6013872527061668110" title="Pullover / Popover Shirt placket with 3 buttons" width="19px"/>
+<div class="CSIC pullover_shirt_of" style="width:104px; height:69px; margin-left:10px"></div>
+<input class="field radio" id="Field6_2" name="properties[Placket]" onchange="handleInput(this);" onmouseup="handleInput(this);" required="" tabindex="21" type="radio" value="Pullover Shirt"/>
+</div>
+<div class="custom_sect">
+<h4>Custom Placket</h4><img class="tooltip" height="19" src="//cdn.shopify.com/s/files/1/0109/6372/t/16/assets/question.png?6013872527061668110" title="Custom placket - provide details in notes" width="19px"/>
+<div class="CSIC custom_planket_of" style="width:104px; height:69px; margin-left:10px"></div>
+<input checked="checked" class="field radio" id="Field6_3" name="properties[Placket]" onchange="handleInput(this);" onmouseup="handleInput(this);" required="" tabindex="22" type="radio" value="Custom"/>
+</div>
+</div>
+</div>
+<!--<li class="hide">
+            <label for="comment">Do Not Fill This Out</label>
+            <textarea name="comment" id="comment" rows="1" cols="1"></textarea>
+          </li>-->
+</div>
+<textarea cols="60" name="properties[Custom_notes]" rows="4">NOTES: Your custom style and fitting requirements: 
+</textarea>
+</h2></div>
+<div style="background:url(//cdn.shopify.com/s/files/1/0109/6372/t/16/assets/bgHomeFeaturBtm.png?6013872527061668110) no-repeat; height:24px; width:703px; clear:both"> </div>
+<a name="Customize1">All sizes are shirt measurements. Prefer body measurements? Instructions </a><a href="http://custom.luxire.com/pages/body-measurements"><u>here</u></a>
+</div>
+<!--<input id="Field100" type="radio" value="Standard"/>
+    <input id="Field101" type="radio" value="Plain" />-->
+<div class="bx-section1" id="bodySizeDiv">
+<div style="background:url(//cdn.shopify.com/s/files/1/0109/6372/t/16/assets/bgFullTop.png?6013872527061668110) no-repeat; height:19px; width:943px; clear:both"> </div>
+<div class="bodySizeDivCntnt">
+<div class="customize_sect1" style="width:212px">
+<h3>Chest Width</h3><img class="tooltip" height="19" src="//cdn.shopify.com/s/files/1/0109/6372/t/16/assets/question.png?6013872527061668110" title="Width of the shirt measured just below the armholes across the chest" width="19px"/>
+<select class="field select small" id="Field20" name="properties[Chest]" tabindex="17">
+<option selected="selected" value=""></option>
+<option value="16.00">16.00</option>
+<option value="16.50">16.50</option>
+<option value="17.00">17.00</option>
+<option value="17.50">17.50</option>
+<option value="18.00">18.00</option>
+<option value="18.50">18.50</option>
+<option value="19.00">19.00</option>
+<option value="19.50">19.50</option>
+<option value="20.00">20.00</option>
+<option value="20.50">20.50</option>
+<option value="21.00">21.00</option>
+<option value="21.50">21.50</option>
+<option value="22.00">22.00</option>
+<option value="22.50">22.50</option>
+<option value="23.00">23.00</option>
+<option value="23.50">23.50</option>
+<option value="24.00">24.00</option>
+<option value="24.50">24.50</option>
+<option value="25.00">25.00</option>
+<option value="25.50">25.50</option>
+<option value="26.00">26.00</option>
+<option value="26.50">26.50</option>
+<option value="27.00">27.00</option>
+<option value="27.50">27.50</option>
+<option value="28.00">28.00</option>
+<option value="28.50">28.50</option>
+<option value="29.00">29.00</option>
+<option value="29.50">29.50</option>
+<option value="30.00">30.00</option>
+<option value="30.50">30.50</option>
+<option value="31.00">31.00</option>
+<option value="31.50">31.50</option>
+<option value="32.00">32.00</option>
+<option value="32.50">32.50</option>
+<option value="33.00">33.00</option>
+<option value="33.50">33.50</option>
+<option value="34.00">34.00</option>
+<option value="34.50">34.50</option>
+<option value="35.00">35.00</option>
+</select>
+</div>
+<div class="customize_sect1" style="width:202px">
+<h3>Waist Width</h3><img class="tooltip" height="19" src="//cdn.shopify.com/s/files/1/0109/6372/t/16/assets/question.png?6013872527061668110" title="Width of the shirt measured 6 inches below the armholes across the shirt" width="19px"/>
+<select class="field select small" id="Field21" name="properties[Waist]" tabindex="18">
+<option selected="selected" value=""></option>
+<option value="15.00">15.00</option>
+<option value="15.50">15.50</option>
+<option value="16.00">16.00</option>
+<option value="16.50">16.50</option>
+<option value="17.00">17.00</option>
+<option value="17.50">17.50</option>
+<option value="18.00">18.00</option>
+<option value="18.50">18.50</option>
+<option value="19.00">19.00</option>
+<option value="19.50">19.50</option>
+<option value="20.00">20.00</option>
+<option value="20.50">20.50</option>
+<option value="21.00">21.00</option>
+<option value="21.50">21.50</option>
+<option value="22.00">22.00</option>
+<option value="22.50">22.50</option>
+<option value="23.00">23.00</option>
+<option value="23.50">23.50</option>
+<option value="24.00">24.00</option>
+<option value="24.50">24.50</option>
+<option value="25.00">25.00</option>
+<option value="25.50">25.50</option>
+<option value="26.00">26.00</option>
+<option value="26.50">26.50</option>
+<option value="27.00">27.00</option>
+<option value="27.50">27.50</option>
+<option value="28.00">28.00</option>
+<option value="28.50">28.50</option>
+<option value="29.00">29.00</option>
+<option value="29.50">29.50</option>
+<option value="30.00">30.00</option>
+<option value="30.50">30.50</option>
+<option value="31.00">31.00</option>
+<option value="31.50">31.50</option>
+<option value="32.00">32.00</option>
+<option value="32.50">32.50</option>
+<option value="33.00">33.00</option>
+<option value="33.50">33.50</option>
+<option value="34.00">34.00</option>
+<option value="34.50">34.50</option>
+<option value="35.00">35.00</option>
+</select>
+</div>
+<div class="customize_sect1" style="width:216px">
+<h3>Bottom Width</h3><img class="tooltip" height="19" src="//cdn.shopify.com/s/files/1/0109/6372/t/16/assets/question.png?6013872527061668110" title="Measured across the shirt at the last position of the lasty button" width="19px"/>
+<select class="field select small" id="Field22" name="properties[Bottom]" tabindex="19">
+<option selected="selected" value=""></option>
+<option value="15.00">15.00</option>
+<option value="15.50">15.50</option>
+<option value="16.00">16.00</option>
+<option value="16.50">16.50</option>
+<option value="17.00">17.00</option>
+<option value="17.50">17.50</option>
+<option value="18.00">18.00</option>
+<option value="18.50">18.50</option>
+<option value="19.00">19.00</option>
+<option value="19.50">19.50</option>
+<option value="20.00">20.00</option>
+<option value="20.50">20.50</option>
+<option value="21.00">21.00</option>
+<option value="21.50">21.50</option>
+<option value="22.00">22.00</option>
+<option value="22.50">22.50</option>
+<option value="23.00">23.00</option>
+<option value="23.50">23.50</option>
+<option value="24.00">24.00</option>
+<option value="24.50">24.50</option>
+<option value="25.00">25.00</option>
+<option value="25.50">25.50</option>
+<option value="26.00">26.00</option>
+<option value="26.50">26.50</option>
+<option value="27.00">27.00</option>
+<option value="27.50">27.50</option>
+<option value="28.00">28.00</option>
+<option value="28.50">28.50</option>
+<option value="29.00">29.00</option>
+<option value="29.50">29.50</option>
+<option value="30.00">30.00</option>
+<option value="30.50">30.50</option>
+<option value="31.00">31.00</option>
+<option value="31.50">31.50</option>
+<option value="32.00">32.00</option>
+</select>
+</div>
+<div class="customize_sect1" style="width:216px">
+<h3>Back Width (Yoke Width)</h3><img class="tooltip" height="19" src="//cdn.shopify.com/s/files/1/0109/6372/t/16/assets/question.png?6013872527061668110" title="Measure from one shoulder to another" width="19px"/>
+<select class="field select small" id="Field23" name="properties[Yoke]" tabindex="20">
+<option selected="selected" value=""></option>
+<option value="15.00">15.00</option>
+<option value="15.25">15.25</option>
+<option value="15.50">15.50</option>
+<option value="15.75">15.75</option>
+<option value="16.00">16.00</option>
+<option value="16.25">16.25</option>
+<option value="16.50">16.50</option>
+<option value="16.75">16.75</option>
+<option value="17.00">17.00</option>
+<option value="17.25">17.25</option>
+<option value="17.50">17.50</option>
+<option value="17.75">17.75</option>
+<option value="18.00">18.00</option>
+<option value="18.25">18.25</option>
+<option value="18.50">18.50</option>
+<option value="18.75">18.75</option>
+<option value="19.00">19.00</option>
+<option value="19.25">19.25</option>
+<option value="19.50">19.50</option>
+<option value="19.75">19.75</option>
+<option value="20.00">20.00</option>
+<option value="20.25">20.25</option>
+<option value="20.50">20.50</option>
+<option value="20.75">20.75</option>
+<option value="21.00">21.00</option>
+<option value="21.25">21.25</option>
+<option value="21.50">21.50</option>
+<option value="21.75">21.75</option>
+<option value="22.00">22.00</option>
+<option value="22.25">22.25</option>
+<option value="22.50">22.50</option>
+<option value="22.75">22.75</option>
+<option value="23.00">23.00</option>
+<option value="23.25">23.25</option>
+<option value="23.50">23.50</option>
+<option value="23.75">23.75</option>
+<option value="24.00">24.00</option>
+<option value="24.25">24.25</option>
+<option value="24.50">24.50</option>
+<option value="24.75">24.75</option>
+<option value="25.00">25.00</option>
+</select>
+</div>
+<div class="customize_sect1" style="width:212px; margin-top:10px">
+<h3><a href="http://custom.luxire.com/pages/how-to-measure" target="_new">Sleeve Width<br/> (Click for help)</a></h3><img class="tooltip" height="19" src="//cdn.shopify.com/s/files/1/0109/6372/t/16/assets/question.png?6013872527061668110" title="Place the shirt on a large flat surface so the front of the shirt is facing you. Place the measuring tape flat at the bottom of the armhole seam and measure the width of the sleeve as shown in the image on the measurements page." width="19px"/>
+<select class="field select small" id="Field24" name="properties[Biceps]" tabindex="21">
+<option selected="selected" value=""> </option>
+<option value="7.00 "> 7.00 </option>
+<option value="7.25 "> 7.25 </option>
+<option value="7.50 "> 7.50 </option>
+<option value="7.75 "> 7.75 </option>
+<option value="8.00 "> 8.00 </option>
+<option value="8.25 "> 8.25 </option>
+<option value="8.50 "> 8.50 </option>
+<option value="8.75 "> 8.75 </option>
+<option value="9.00 "> 9.00 </option>
+<option value="9.25 "> 9.25 </option>
+<option value="9.50 "> 9.50 </option>
+<option value="9.75 "> 9.75 </option>
+<option value="10.00">10.00</option>
+<option value="10.25">10.25</option>
+<option value="10.50">10.50</option>
+<option value="10.75">10.75</option>
+<option value="11.00">11.00</option>
+<option value="11.25">11.25</option>
+<option value="11.50">11.50</option>
+<option value="11.75">11.75</option>
+<option value="12.00">12.00</option>
+<option value="12.25">12.25</option>
+<option value="12.50">12.50</option>
+<option value="12.75">12.75</option>
+<option value="13.00">13.00</option>
+<option value="13.25">13.25</option>
+<option value="13.50">13.50</option>
+<option value="13.75">13.75</option>
+<option value="14.00">14.00</option>
+<option value="14.25">14.25</option>
+<option value="14.50">14.50</option>
+<option value="14.75">14.75</option>
+<option value="15.00">15.00</option>
+</select>
+</div>
+<div class="customize_sect1" style="width:212px; margin-top:10px">
+<h3><a href="http://custom.luxire.com/pages/how-to-measure" target="_new">Armhole</a></h3><img class="tooltip" height="19" src="//cdn.shopify.com/s/files/1/0109/6372/t/16/assets/question.png?6013872527061668110" title="Place the shirt on a large flat surface so the front of the shirt is facing you. Place the measuring tape flat at the bottom of the armhole seam and measure the width of the sleeve as shown in the image on the measurements page. The armhole should measure atleast 1.0 moe than the biceps" width="19px"/>
+<select class="field select small" id="Field24" name="properties[Armhole]" tabindex="21">
+<option selected="selected" value=""> </option>
+<option value="7.00 "> 7.00 </option>
+<option value="7.25 "> 7.25 </option>
+<option value="7.50 "> 7.50 </option>
+<option value="7.75 "> 7.75 </option>
+<option value="8.00 "> 8.00 </option>
+<option value="8.25 "> 8.25 </option>
+<option value="8.50 "> 8.50 </option>
+<option value="8.75 "> 8.75 </option>
+<option value="9.00 "> 9.00 </option>
+<option value="9.25 "> 9.25 </option>
+<option value="9.50 "> 9.50 </option>
+<option value="9.75 "> 9.75 </option>
+<option value="10.00">10.00</option>
+<option value="10.25">10.25</option>
+<option value="10.50">10.50</option>
+<option value="10.75">10.75</option>
+<option value="11.00">11.00</option>
+<option value="11.25">11.25</option>
+<option value="11.50">11.50</option>
+<option value="11.75">11.75</option>
+<option value="12.00">12.00</option>
+<option value="12.25">12.25</option>
+<option value="12.50">12.50</option>
+<option value="12.75">12.75</option>
+<option value="13.00">13.00</option>
+<option value="13.25">13.25</option>
+<option value="13.50">13.50</option>
+<option value="13.75">13.75</option>
+<option value="14.00">14.00</option>
+<option value="14.25">14.25</option>
+<option value="14.50">14.50</option>
+<option value="14.75">14.75</option>
+<option value="15.00">15.00</option>
+</select>
+</div>
+<div class="customize_sect1" style="width:202px; margin-top:10px">
+<h3>Cuff Around</h3><img class="tooltip" height="19" src="//cdn.shopify.com/s/files/1/0109/6372/t/16/assets/question.png?6013872527061668110" title="Measure around the cuff" width="19px"/>
+<select class="field select small" id="Field25" name="properties[CuffSize]" tabindex="22">
+<option selected="selected" value=""></option>
+<option value="6.00 ">6.00 </option>
+<option value="6.25 ">6.25 </option>
+<option value="6.50 ">6.50 </option>
+<option value="6.75 ">6.75 </option>
+<option value="7.00 ">7.00 </option>
+<option value="7.25 ">7.25 </option>
+<option value="7.50 ">7.50 </option>
+<option value="7.75 ">7.75 </option>
+<option value="8.00 ">8.00 </option>
+<option value="8.25 ">8.25 </option>
+<option value="8.50 ">8.50 </option>
+<option value="8.75 ">8.75 </option>
+<option value="9.00 ">9.00 </option>
+<option value="9.25 ">9.25 </option>
+<option value="9.50 ">9.50 </option>
+<option value="9.75 ">9.75 </option>
+<option value="10.00">10.00</option>
+<option value="10.25">10.25</option>
+<option value="10.50">10.50</option>
+<option value="10.75">10.75</option>
+<option value="11.00">11.00</option>
+<option value="11.25">11.25</option>
+<option value="11.50">11.50</option>
+<option value="11.75">11.75</option>
+<option value="12.00">12.00</option>
+</select>
+</div>
+<div class="customize_sect1" style="width:216px; margin-top:10px">
+<h3>Shirt Length</h3><img class="tooltip" height="19" src="//cdn.shopify.com/s/files/1/0109/6372/t/16/assets/question.png?6013872527061668110" title="Length of the shirt measured at the center back from below the collar band to the bottm of the shirt" width="19px"/>
+<select class="field select small" id="Field26" name="properties[Length]" tabindex="23">
+<option selected="selected" value=""></option>
+<option value="24.00">24.00</option>
+<option value="24.50">24.50</option>
+<option value="25.00">25.00</option>
+<option value="25.50">25.50</option>
+<option value="26.00">26.00</option>
+<option value="26.50">26.50</option>
+<option value="27.00">27.00</option>
+<option value="27.50">27.50</option>
+<option value="28.00">28.00</option>
+<option value="28.50">28.50</option>
+<option value="29.00">29.00</option>
+<option value="29.50">29.50</option>
+<option value="30.00">30.00</option>
+<option value="30.50">30.50</option>
+<option value="31.00">31.00</option>
+<option value="31.50">31.50</option>
+<option value="32.00">32.00</option>
+<option value="32.50">32.50</option>
+<option value="33.00">33.00</option>
+<option value="33.50">33.50</option>
+<option value="34.00">34.00</option>
+<option value="34.50">34.50</option>
+<option value="35.00">35.00</option>
+<option value="35.50">35.50</option>
+<option value="36.00">36.00</option>
+<option value="36.50">36.50</option>
+<option value="37.00">37.00</option>
+<option value="37.50">37.50</option>
+<option value="38.00">38.00</option>
+<option value="38.50">38.50</option>
+<option value="39.00">39.00</option>
+<option value="39.50">39.50</option>
+<option value="40.00">40.00</option>
+</select>
+</div>
+<div class="clearFloat"></div>
+</div>
+<div style="background:url(//cdn.shopify.com/s/files/1/0109/6372/t/16/assets/bgFullBtm.png?6013872527061668110) no-repeat; height:18px; width:943px; clear:both"> </div>
+</div>
+<div style="margin-bottom:15px; "> <h3>Monogram: ADD: $20 Pay <a href="http://custom.luxire.com/products/hand-made-monogram"><u>here</u> </a></h3>
+<div style="background:url(//cdn.shopify.com/s/files/1/0109/6372/t/16/assets/bgFullTop.png?6013872527061668110) no-repeat; height:19px; width:943px; clear:both"> </div>
+<div class="bodySizeDivCntnt bodyTwoCntnt">
+<div class="customize_sect" style="width:218px">
+<input name="id" type="hidden" value="224142946"/>
+</div>
+<div class="customize_sect" style="width:167px">
+<h3>Initials</h3>
+<input maxlength="3" name="properties[initials]" size="3" title="" type="text" value=""/>
+</div>
+<div class="customize_sect" style="width:155px">
+<h3>Location</h3>
+<select id="location_sel" name="properties[Locaton]" title="">
+<option selected="" value=""></option>
+<option value="RightCuff"> Right Cuff</option>
+<option value="LeftCuff"> Left Cuff</option>
+<option value="Pocket"> Pocket Top / Chest</option>
+<option value="Placket"> Bottom of Placket</option>
+<option value="InsideCollar">Inside of Collar</option>
+<option value="Left-Rib">Below the Ribs - Left</option>
+<option value="LeftSleevePlacket">Left Sleeve Placket</option>
+<option value="RightSleevePlacket">Right Sleeve Placket</option>
+<option value="Custom">Custom</option>
+</select>
+</div>
+<div class="customize_sect" style="width:155px">
+<h3>Color</h3>
+<select id="color_sel" name="properties[Color]" title="">
+<option selected="" value=""> </option>
+<option value="Matching"> Matching</option>
+<option value="White"> White</option>
+<option value="Black"> Black</option>
+<option value="Burgundy"> Burgundy</option>
+<option value="Grey"> Grey</option>
+<option value="Red"> Red</option>
+<option value="LightGrey"> Light Grey</option>
+<option value="HunterGreen"> Hunter Green</option>
+<option value="Navy"> Navy</option>
+<option value="RoyalBlue"> Royal Blue</option>
+<option value="Yellow"> Yellow</option>
+<option value="Brown"> Brown</option>
+<option value="Ivory"> Ivory</option>
+<option value="Khaki"> Khaki</option>
+<option value="Lilac"> Lilac</option>
+<option value="LightBlue"> Light Blue</option>
+<option value="Gold"> Gold</option>
+</select>
+</div>
+<div class="customize_sect" style="width:150px; padding-left:10px">
+<h3>Font</h3>
+<select id="font_sel" name="properties[Font]" title="">
+<option selected="" value=""></option>
+<option value="Hand-Made"> Hand-Made</option>
+<option value="Machine Made Any Font"> Machine Made Any Font</option>
+<option value="Machine Made Block Font"> Machine Made Block Font</option>
+<option value="Machine Made Fishtail Font"> Machine Made Fishtail Font </option>
+<option value="Machine Made Script Font"> Machine Made Script Font </option>
+</select>
+<img src="https://cdn.shopify.com/s/files/1/0126/4512/t/2/assets/monogram_fonts.png" style="width:140px; height:30px; margin-top:8px; margin-left:-10px"/> </div>
+<div class="clearFloat"></div>
+</div>
+<div style="background:url(//cdn.shopify.com/s/files/1/0109/6372/t/16/assets/bgFullBtm.png?6013872527061668110) no-repeat; height:18px; width:943px; clear:both"> </div>
+</div>
+<div class="clearfix"></div>
+<span class="add-to-cart">
+<input class="cufon" id="shappify_add_to_cart_btn" name="add" type="submit" value="Add to Cart"/>
+</span>
+<!-- top form ends -->
+</form>
+</div>
+<div class="yotpo yotpo-main-widget" data-description="&lt;ul&gt;
+&lt;li&gt;2 Ply, 100% Premium, super fine Cotton&lt;/li&gt;
+&lt;li&gt;Classic Oxford by Brembana&lt;/li&gt;
+&lt;li&gt;Thick Mother-of-pearl buttons&lt;/li&gt;
+&lt;li&gt;Only Luxire offers 1mm Stainless steel collar-stays with all shirts&lt;/li&gt;
+&lt;li&gt;20 stitches per inch, for the refined look&lt;/li&gt;
+&lt;li&gt;Machine Wash Cold, Tumble Dry&lt;/li&gt;
+&lt;/ul&gt;" data-image-url="//cdn.shopify.com/s/files/1/0109/6372/products/10986889_858455537549497_3516335433618450717_o_large.jpeg%3Fv=1427722184" data-name="Sky Blue Oxford" data-product-id="95745126" data-url="">
+</div>
+</div>
+<script type="text/javascript">
+function populateData(sel, sourceValue) {
+    if(sourceValue == 1) {
+    	var form = sel.form;
+		var neckSize = form.Field13.value;
+		
+		var yokeWidth = (17.0 + (neckSize - 14));
+		document.getElementById('Field23').value = yokeWidth.toFixed(2);				
+		
+		var cuffAround = (8.25 + ((neckSize - 14) / 0.5 ) * 0.25);	
+		document.getElementById('Field25').value = cuffAround.toFixed(2);		
+    }
+	else if (sourceValue == 2){
+		var form = sel.form;
+		var sleeveLength = form.Field14.value;
+		
+		var shirtLength = (28.5 + ((sleeveLength - 30) / 0.75 ) * 0.5);
+		document.getElementById('Field26').value = shirtLength.toFixed(2);								
+		
+    }
+	else if (sourceValue == 3) {
+		
+		var form = sel.form;
+
+		var fitValue = sel.selectedIndex;		
+		var neckSize = form.Field13.value;
+		
+		if(fitValue == 1) //HERE FIT TYPE = REGULAR
+		{
+			var chestWidth = (20.5 + ((neckSize - 14) * 2));
+			document.getElementById('Field20').value = chestWidth.toFixed(2);
+			
+			var waistWidth = (18.5 + ((neckSize - 14) * 2));
+			document.getElementById('Field21').value = waistWidth.toFixed(2);			
+
+			var bottomWidth = (19.5 + ((neckSize - 14) * 2));
+			document.getElementById('Field22').value = bottomWidth.toFixed(2);			
+			
+			var sleeveWidth = (8.75 + ((neckSize - 14) / 0.5 ) * 0.25);
+			document.getElementById('Field24').value = sleeveWidth.toFixed(2);						
+		}
+		
+		else if(fitValue == 2) //HERE FIT TYPE = SLIM
+		{
+			var chestWidth = (20.5 + ((neckSize - 14) * 2) - 1.0);
+			document.getElementById('Field20').value = chestWidth.toFixed(2);
+			
+			var waistWidth = (18.5 + ((neckSize - 14) * 2) - 1.0);
+			document.getElementById('Field21').value = waistWidth.toFixed(2);			
+
+			var bottomWidth = (19.5 + ((neckSize - 14) * 2) - 1.0);
+			document.getElementById('Field22').value = bottomWidth.toFixed(2);			
+			
+			var sleeveWidth = (8.75 + (((neckSize - 14) / 0.5 ) * 0.25) - 0.75);
+			document.getElementById('Field24').value = sleeveWidth.toFixed(2);						
+		}
+		else if(fitValue == 3) //HERE FIT TYPE = SUPER SLIM
+		{
+			var chestWidth = (20.5 + ((neckSize - 14) * 2) - 2.0);
+			document.getElementById('Field20').value = chestWidth.toFixed(2);
+			
+			var waistWidth = (18.5 + ((neckSize - 14) * 2) - 3.0);
+			document.getElementById('Field21').value = waistWidth.toFixed(2);			
+
+			var bottomWidth = (19.5 + ((neckSize - 14) * 2) - 3.0);
+			document.getElementById('Field22').value = bottomWidth.toFixed(2);			
+			
+			var sleeveWidth = (8.75 + (((neckSize - 14) / 0.5 ) * 0.25) - 1.5);
+			document.getElementById('Field24').value = sleeveWidth.toFixed(2);						
+		}
+    }
+}
+function doClick(objRad) {
+    if (objRad.value == "0") {
+
+        document.getElementById("customizeOpt").style.display = 'block'; //show other options
+    } else {
+        document.getElementById("otherOpt").style.display = 'none'; //hide other options
+    }
+}
+
+function showhidefield() {
+    if (document.frm.chkbox.checked) {
+        document.getElementById("customizeOpt").style.display = "block";
+    } else {
+        document.getElementById("customizeOpt").style.display = "none";
+    }
+}
+
+function toggle() {
+    var ele = document.getElementById("customizeOpt");
+    var text = document.getElementById("displayOpt");
+    if (ele.style.display == "block") {
+        ele.style.display = "none";
+        text.innerHTML = "Additional Shirt Measurements:(Optional) Show";
+    } else {
+        ele.style.display = "block";
+        text.innerHTML = "Additional Shirt Measurements:(Optional) Hide";
+    }
+}
+</script>
+<script type="text/javascript">
+// <![CDATA[  
+var selectCallback = function(variant, selector) {
+  if (variant && variant.available == true) {
+    // selected a valid variant
+    jQuery('#add-to-cart').removeClass('disabled').removeAttr('disabled').val('Add to Cart'); // remove unavailable class from add-to-cart button, and re-enable button
+    if(variant.price < variant.compare_at_price){
+      jQuery('#price-preview').html(Shopify.formatMoney(variant.price, "<span class=money> ${{amount}} </span>") + " <span>was " + Shopify.formatMoney(variant.compare_at_price, "<span class=money> ${{amount}} </span>") + "</span>");
+    } else {
+      jQuery('#price-preview').html(Shopify.formatMoney(variant.price, "<span class=money> ${{amount}} </span>"));
+    }
+
+  } else {
+    // variant doesn't exist
+    var message = variant ? "Sold Out" : "Unavailable";    
+    jQuery('#add-to-cart').addClass('disabled').attr('disabled', 'disabled').val('Sold Out');      // set add-to-cart button to unavailable class and disable button
+    jQuery('#product .variants .price').text(message); // update price-field message
+  }
+};
+
+function remove(s, t) {
+  /*
+  **  Remove all occurrences of a token in a string
+  **    s  string to be processed
+
+  **    t  token to be removed
+  **  returns new string
+  */
+  i = s.indexOf(t);
+  r = "";
+  if (i == -1) return s;
+  r += s.substring(0,i) + remove(s.substring(i + t.length), t);
+  return r;
+}
+
+// initialize multi selector for product
+jQuery(function() {
+  if(jQuery.cookie("viewed-products") != null){ // if cookie exists...
+    var products = jQuery.cookie("viewed-products");
+    var productHandles = products.split(" ");
+    var matches = 0;
+    var limit = 4;
+    for(var i = (productHandles.length - 1); i >= 0; i--) {
+      if(productHandles[i] != "sky-blue-oxford" && productHandles[i] != "" && (matches < limit)){
+        Shopify.getProduct(productHandles[i]);
+        matches++;
+      }
+    }
+
+    if(products.indexOf("sky-blue-oxford") == -1){ // add current product to list if it isn't already there
+    products += " sky-blue-oxford";
+    jQuery.cookie("viewed-products", products, {path: "/"});
+    } else { // if it is already there, push it to the end of the string
+      var newstring = remove(products, 'sky-blue-oxford');
+      newstring += " sky-blue-oxford";
+      jQuery.cookie("viewed-products", newstring.replace(/ /g,' '), {path: "/"});
+    }
+    } else { // create cookie if it doesn't already exist
+    jQuery.cookie("viewed-products", "sky-blue-oxford", {path: "/"});
+  }
+  
+  
+});
+// ]]>
+</script>
+<!--- Bold Apps: Premium Options -->
+<script type="text/javascript">
+mixpanel.track(
+"Product Viewed",
+{"name": "Sky Blue Oxford",
+"price": "69.99",
+"brand": "Luxire",
+"category": "Dress Shirts",
+"variant": "VB82324-GTZ45630-GTZ46902-GTZ46458-GTZ46909-GTZ45672-VB-92280"
+});
+</script>
+<script>
+$(document).ready(function(){
+$("#add-to-cart").click(function(){
+mixpanel.track(
+"Added to Cart", {"name": "Sky Blue Oxford"});
+});
+});
+</script>
+<!-- Bold: Custom Orders-->
+<div class="footer">
+<ul class="footerNav">
+<li><a href="#">search</a></li>
+<li><a href="http://custom.luxire.com/pages/about-us">about us</a></li>
+<li><a href="http://custom.luxire.com/pages/privacy-policy">privacy policy</a></li>
+<li><a href="http://custom.luxire.com/pages/shipping-returns">shipping &amp; returns</a></li>
+<li><a href="http://custom.luxire.com/pages/faq">FAQs</a></li>
+<li><a href="http://custom.luxire.com/pages/quality-and-satisfaction">quality and satisfaction</a></li>
+<li><a href="http://custom.luxire.com/pages/contact-us">contact us</a></li> <p></p>
+<li><a href="http://custom.luxire.com/pages/responsible-manufacturing">Responsible Manufacturing</a></li>
+</ul>
+<form accept-charset="UTF-8" action="/contact" class="contact-form" method="post"><input name="form_type" type="hidden" value="customer"/><input name="utf8" type="hidden" value="✓"/>
+<input id="contact_tags" name="contact[tags]" type="hidden" value="prospect,newsletter"/>
+<table>
+<tbody>
+<tr>
+<td>Enter in your email to join our mailing list:</td>
+<td><input id="contact_email" name="contact[email]" type="text"/></td>
+</tr>
+<tr>
+<td colspan="2"><input class="submit" type="submit"/></td>
+</tr>
+</tbody>
+</table>
+</form>
+<img alt="" class="cards" src="//cdn.shopify.com/s/files/1/0109/6372/t/16/assets/cards.png?6013872527061668110"/>
+<p>Copyright © 2012 Luxire Custom clothing </p>
+</div>
+<script src="//cdn.shopify.com/s/javascripts/currencies.js" type="text/javascript"></script>
+<script>
+function roundCurrency() {
+    
+$('.money').each(function(){
+    var $span = $(this);        
+    var spanTxt = $span.text();
+  var tempTxtArr = spanTxt.split(" ");
+    var tempTxt = "";
+    for(i=0;i<tempTxtArr.length;i++)
+    { 
+      
+      if(i===0) {
+        tempTxt = tempTxtArr[i].replace(/\.([0-9][0-9])$/,".00").replace(/,([0-9][0-9])$/,",00");
+      }
+      else {
+        tempTxt = tempTxt+ " " + tempTxtArr[i].replace(/\.([0-9][0-9])$/,".00").replace(/,([0-9][0-9])$/,",00");
+                 }
+    }
+  $span.text(tempTxt);
+});
+
+}
+function mlvedaload(){
+
+
+Currency.format = 'money_with_currency_format';
+
+
+var shopCurrency = 'USD';
+
+/* Sometimes merchants change their shop currency, let's tell our JavaScript file */
+Currency.moneyFormats[shopCurrency].money_with_currency_format = " ${{amount}} USD ";
+Currency.moneyFormats[shopCurrency].money_format = " ${{amount}} ";
+  
+/* Default currency */
+var defaultCurrency = shopCurrency;
+  
+/* Cookie currency */
+var cookieCurrency = Currency.cookie.read();
+
+  if(cookieCurrency == null) {
+    cookieCurrency = window.mlvedadefaultcurrency;
+  }
+/* Fix for customer account pages */
+jQuery('span.money span.money').each(function() {
+  jQuery(this).parents('span.money').removeClass('money');
+});
+
+/* Saving the current price */
+jQuery('span.money').each(function() {
+if(!jQuery(this).attr('data-currency-USD'))
+{
+  jQuery(this).attr('data-currency-USD', jQuery(this).html());
+}
+});
+
+// If there's no cookie.
+if (cookieCurrency == null) {
+  if (shopCurrency !== defaultCurrency) {
+    Currency.convertAll(shopCurrency, defaultCurrency);
+  }
+  else {
+    Currency.currentCurrency = defaultCurrency;
+  }
+}
+// If the cookie value does not correspond to any value in the currency dropdown.
+else if (jQuery('[name=currencies]').size() && jQuery('[name=currencies] option[value=' + cookieCurrency + ']').size() === 0) {
+  Currency.currentCurrency = shopCurrency;
+  Currency.cookie.write(shopCurrency);
+}
+else if (cookieCurrency === shopCurrency) {
+  Currency.currentCurrency = shopCurrency;
+}
+else {
+  Currency.convertAll(shopCurrency, cookieCurrency);
+  roundCurrency();
+}
+
+jQuery('[name=currencies]').val(Currency.currentCurrency).change(function() {
+  var newCurrency = jQuery(this).val();
+  Currency.convertAll(Currency.currentCurrency, newCurrency);
+  jQuery('.selected-currency').text(Currency.currentCurrency);
+  if(newCurrency != shopCurrency)  {    roundCurrency();
+  }});
+
+var original_selectCallback = window.selectCallback;
+var selectCallback = function(variant, selector) {
+  original_selectCallback(variant, selector);
+  Currency.convertAll(shopCurrency, jQuery('[name=currencies]').val());
+  jQuery('.selected-currency').text(Currency.currentCurrency);
+};
+
+jQuery('.selected-currency').text(Currency.currentCurrency);
+
+jQuery('.single-option-selector').change(function() {
+    mlvedaload();
+  });
+}
+</script>
+<script>
+
+/**
+ * Module to ajaxify all add to cart forms on the page.
+ *
+ * Copyright (c) 2014 Caroline Schnapp (11heavens.com)
+ * Dual licensed under the MIT and GPL licenses:
+ * http://www.opensource.org/licenses/mit-license.php
+ * http://www.gnu.org/licenses/gpl.html
+ *
+ */
+Shopify.AjaxifyCart = (function($) {
+  var _config = {
+    addedToCartBtnLabel: 'Thank you!',
+    addingToCartBtnLabel: 'Add to Cart',
+    soldOutBtnLabel: 'Sold Out',
+    howLongTillBtnReturnsToNormal: 10, // in milliseconds.
+    cartCountSelector: '.cart, #cart-count a:first, #gocart p a, #cart .checkout em, .item-count',
+    cartTotalSelector: '#cart-price',
+    feedbackPosition: 'nextButton', // 'aboveForm' for top of add to cart form, 'belowForm' for below the add to cart form, and 'nextButton' for next to add to cart button.
+    shopifyAjaxAddURL: '/cart/add.js',
+    shopifyAjaxCartURL: '/cart.js'
+  };
+  var _showFeedback = function(success, html, addToCartForm) {
+    $('.ajaxified-cart-feedback').remove();
+    var feedback = '<p class="ajaxified-cart-feedback ' + success + '">' + html + '</p>';
+    switch (_config.feedbackPosition) {
+      case 'aboveForm':
+        addToCartForm.before(feedback);
+        break;
+      case 'belowForm':
+        addToCartForm.after(feedback);
+        break;
+      case 'nextButton':
+      default:
+        // In New Standard theme:
+        // addToCartForm.find('#product-add').append(feedback);
+        addToCartForm.find('input[type="submit"]').after(feedback);
+        break;   
+    }
+    // If you use animate.css
+    // $('.ajaxified-cart-feedback').addClass('animated bounceInDown');
+    $('.ajaxified-cart-feedback').slideDown();
+  };
+  var _init = function() {   
+    $(document).ready(function() { 
+      $('form[action="/cart/add"]').submit(function(e) {
+        e.preventDefault();
+        var addToCartForm = $(this);  
+        // Disable add to cart button.
+        var addToCartBtn = addToCartForm.find('input[type="submit"]');
+        addToCartBtn.attr('data-label', addToCartBtn.val());
+        addToCartBtn.val(_config.addingToCartBtnLabel).addClass('disabled').attr('disabled', 'disabled');
+        // Add to cart.
+        $.ajax({
+          url: _config.shopifyAjaxAddURL,
+          dataType: 'json',
+          type: 'post',
+          data: addToCartForm.serialize(),
+          success: function(itemData) {
+            // Re-enable add to cart button.
+            addToCartBtn.addClass('inverted').val(_config.addedToCartBtnLabel);
+            _showFeedback('success','<i class="fa fa-check"></i> Added to cart! <a href="/cart">View cart</a> or <a href="/collections/all">continue shopping</a>.',addToCartForm);
+            window.setTimeout(function(){
+              addToCartBtn.removeAttr('disabled').removeClass('disabled').removeClass('inverted').val(addToCartBtn.attr('data-label'));
+            }, _config.howLongTillBtnReturnsToNormal);
+            // Update cart count and show cart link.
+            $.getJSON(_config.shopifyAjaxCartURL, function(cart) {
+              if (_config.cartCountSelector && $(_config.cartCountSelector).size()) {
+                var value = $(_config.cartCountSelector).html() || '0';
+                $(_config.cartCountSelector).html(value.replace(/[0-9]+/,cart.item_count));
+              }
+              if (_config.cartTotalSelector && $(_config.cartTotalSelector).size()) {
+                if (typeof Currency !== 'undefined' && typeof Currency.moneyFormats !== 'undefined') {
+                  var newCurrency = '';
+                  if ($('[name="currencies"]').size()) {
+                    newCurrency = $('[name="currencies"]').val();
+                  }
+                  else if ($('#currencies span.selected').size()) {
+                    newCurrency = $('#currencies span.selected').attr('data-currency');
+                  }
+                  if (newCurrency) {
+                    $(_config.cartTotalSelector).html('<span class=money>' + Shopify.formatMoney(Currency.convert(cart.total_price, "USD", newCurrency), Currency.money_format[newCurrency]) + '</span>');
+                  } 
+                  else {
+                    $(_config.cartTotalSelector).html(Shopify.formatMoney(cart.total_price, "<span class=money> ${{amount}} </span>"));
+                  }
+                }
+                else {
+                  $(_config.cartTotalSelector).html(Shopify.formatMoney(cart.total_price, "<span class=money> ${{amount}} </span>"));
+                }
+              };
+            });        
+          }, 
+          error: function(XMLHttpRequest) {
+            var response = eval('(' + XMLHttpRequest.responseText + ')');
+            response = response.description;
+            if (response.slice(0,4) === 'All ') {
+              _showFeedback('error', response.replace('All 1 ', 'All '), addToCartForm);
+              addToCartBtn.removeAttr('disabled').val(_config.soldOutBtnLabel).attr('disabled','disabled');
+            }
+            else {
+              _showFeedback('error', '<i class="fa fa-warning"></i> ' + response, addToCartForm);
+              addToCartBtn.removeAttr('disabled').removeClass('disabled').removeClass('inverted').val(addToCartBtn.attr('data-label'));
+            }
+          }
+        });   
+        return false;    
+      });
+    });
+  };
+  return {
+    init: function(params) {
+        // Configuration
+        params = params || {};
+        // Merging with defaults.
+        $.extend(_config, params);
+        // Action
+        $(function() {
+          _init();
+        });
+    },    
+    getConfig: function() {
+      return _config;
+    }
+  }  
+})(jQuery);
+
+Shopify.AjaxifyCart.init();
+
+</script>
+<link href="//cdnjs.cloudflare.com/ajax/libs/font-awesome/4.0.3/css/font-awesome.css" media="all" rel="stylesheet" type="text/css"/>
+<style>
+.ajaxified-cart-feedback {
+  /* Below add to cart button */
+  /* display: block; */
+  display: inline;
+  padding-left: 10px;
+  line-height: 36px;
+  font-size: 90%;
+  vertical-align: middle;
+}
+.ajaxified-cart-feedback.success { color: #3D9970; }
+.ajaxified-cart-feedback.error { color: #FF4136; } 
+/* Making links stand out. */
+.ajaxified-cart-feedback a {
+  font-weight: bold;
+  border-bottom: 1px solid;
+}
+</style>
+</body>
+</html>
